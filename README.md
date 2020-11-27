@@ -1,5 +1,5 @@
 # Lifelong Learning
-_"The adventure of life is to learn."_
+> _"The adventure of life is to learn."_
 
 This repository contains articles, notes, videos and other resources related to lifelong learning, continuous learning and personal development.
 
