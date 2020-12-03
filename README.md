@@ -10,5 +10,5 @@ This repository contains articles, notes, videos and other resources related to 
 ..
 
 ## Lectures/courses
-* [Reading Research Papers - Lecture by Andrew Ng](https://www.youtube.com/watch?v=733m6qBH-jI&ab_channel=stanfordonline)
+* [Reading Research Papers - Lecture by Andrew Ng](https://github.com/lucavh/lifelong-learning/blob/main/Ng%20Andrew%20-%20Reading%20Research%20Papers.md)
 * [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
