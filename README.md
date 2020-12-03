@@ -10,5 +10,5 @@ This repository contains articles, notes, videos and other resources related to 
 ..
 
 ## Lectures/courses
-* [Reading Research Papers - Lecture by Andrew Ng](https://github.com/lucavh/lifelong-learning/blob/main/Ng%20Andrew%20-%20Reading%20Research%20Papers.md)
+* [Career & Learning Advice - Lecture by Andrew Ng](https://github.com/lucavh/lifelong-learning/blob/main/Ng%20Andrew%20-%20Reading%20Research%20Papers.md)
 * [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
